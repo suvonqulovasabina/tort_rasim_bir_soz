@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">torta_rasim_bit_soz</string>
+    <string name="sizning_natijangiz">Sizning natijangiz</string>
+    <string name="start">START</string>
+    <string name="urinishlar_soni">URINISHLAR SONI :</string>
+    <string name="siz_oyinimiz_golibi_boldingiz">SIZ OYINIMIZ GOLIBI BOLDINGIZ</string>
+    <string name="oyini_davom_etirasizmi_yoqiy_tohtatasizmi">OYINI davom etirasizmi yoqiy tohtatasizmi</string>
+    <string name="contiue">CONTIUE</string>
+
+</resources>
